@@ -2,7 +2,7 @@
 - 👀 I’m interested in security and python
 - 🌱 I’m currently learning basic programming concepts
 - 📫 How to reach me by email at me@jpix.dev
-- 🌎 My website is jpix.dev
+- 🌎 My website is https://www.jpix.dev
 
 <!---
 iamjpix/iamjpix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
