@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamjpix
 - 👀 I’m interested in security and python
 - 🌱 I’m currently learning basic programming concepts
-- 📫 How to reach me by email at me@jpix.dev
+- 📫 How to reach me? By email at me@jpix.dev
 - 🌎 My website is https://www.jpix.dev
 
 <!---
